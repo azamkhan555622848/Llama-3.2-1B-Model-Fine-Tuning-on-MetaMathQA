@@ -1,0 +1,22 @@
+{
+  "run_tag": "metamath_fresh",
+  "training_dataset": "meta-math/MetaMathQA",
+  "training_examples": 0,
+  "method": "fresh",
+  "rank": null,
+  "component": null,
+  "gsm8k_accuracy": 0.033,
+  "gsm8k_correct": 33,
+  "gsm8k_total": 1000,
+  "gsm8k_unparsed": 16,
+  "gsm8k_eval_seconds": 1506.0485347891226,
+  "math_accuracy": 0.001,
+  "math_correct": 1,
+  "math_total": 1000,
+  "math_unparsed": 958,
+  "math_eval_seconds": 1518.0496080871671,
+  "init_seconds": 0.0,
+  "trainable_parameters": 0,
+  "status": "ok",
+  "seed": 42
+}

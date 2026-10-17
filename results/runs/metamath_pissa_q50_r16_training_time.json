@@ -1,0 +1,14 @@
+{
+  "run_tag": "metamath_pissa_q50_r16",
+  "training_dataset": "meta-math/MetaMathQA",
+  "training_examples": 24975,
+  "method": "pissa",
+  "rank": 16,
+  "component": "q50",
+  "init_seconds": 55.28459966368973,
+  "train_seconds": 1186.3055223533884,
+  "train_minutes": 19.771758705889805,
+  "trainable_parameters": 11272192,
+  "status": "trained_pending_merge_eval",
+  "seed": 42
+}
